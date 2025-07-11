@@ -1,0 +1,23 @@
+{
+    "background": "#141414",
+    "black": "#383838",
+    "blue": "#72BBFF",
+    "brightBlack": "#383838",
+    "brightBlue": "#72BBFF",
+    "brightCyan": "#72E0FF",
+    "brightGreen": "#A8FF72",
+    "brightPurple": "#C272FF",
+    "brightRed": "#FF7272",
+    "brightWhite": "#F2F2F2",
+    "brightYellow": "#FFDE72",
+    "cursorColor": "#F2F2F2",
+    "cyan": "#72E0FF",
+    "foreground": "#F2F2F2",
+    "green": "#A8FF72",
+    "name": "MonoCode Panther",
+    "purple": "#C272FF",
+    "red": "#FF7272",
+    "selectionBackground": "#F2F2F2",
+    "white": "#F2F2F2",
+    "yellow": "#FFDE72"
+}

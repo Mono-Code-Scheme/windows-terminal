@@ -1,0 +1,23 @@
+{
+    "background": "#F6F6F6",
+    "black": "#000000",
+    "blue": "#00679A",
+    "brightBlack": "#000000",
+    "brightBlue": "#00679A",
+    "brightCyan": "#008B9A",
+    "brightGreen": "#5F9A00",
+    "brightPurple": "#62009A",
+    "brightRed": "#9A0000",
+    "brightWhite": "#D8D8D8",
+    "brightYellow": "#9A7100",
+    "cursorColor": "#000000",
+    "cyan": "#008B9A",
+    "foreground": "#000000",
+    "green": "#5F9A00",
+    "name": "MonoCode Lynx",
+    "purple": "#62009A",
+    "red": "#9A0000",
+    "selectionBackground": "#000000",
+    "white": "#D8D8D8",
+    "yellow": "#9A7100"
+}
